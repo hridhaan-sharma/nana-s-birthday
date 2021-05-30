@@ -376,6 +376,7 @@ justify-content: center;
               margin: 0 auto;
               height: 90%;
           }
+        
           .main__img--container{
               display: flex;
               justify-content: center;
@@ -408,7 +409,9 @@ justify-content: center;
         width: 250px;
         height: 250px;
     }
-
+  .main__img--container img {
+      height:250px;
+    }
     
     .fa-birthday-cake {
         font-size: 4rem;
